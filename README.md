@@ -1,5 +1,7 @@
-## 🔐 Week 3: Password Cracking Labs
+<div align="center">
 
+### 🔐 Week 3: Password Cracking Labs
+  
 ![Field](https://img.shields.io/badge/Field-Cybersecurity-1abc9c)
 ![Internship](https://img.shields.io/badge/Internship-grey)
 ![Week](https://img.shields.io/badge/Week-3-2ecc71)
@@ -8,7 +10,9 @@
 ![Training](https://img.shields.io/badge/Training-grey)
 ![Networkwalks](https://img.shields.io/badge/Networkwalks-2ecc71)
 
-> 🔐 Hands-on password cracking labs completed during **Week 3** of my Cybersecurity Internship at NETWORKWALKS.
+🔐 Hands-on password cracking labs completed during **Week 3** of my Cybersecurity Internship at NETWORKWALKS.
+
+</div>
 
 ---
 
