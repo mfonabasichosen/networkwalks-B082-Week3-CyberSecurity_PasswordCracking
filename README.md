@@ -34,7 +34,7 @@ The labs demonstrate password auditing techniques using:
 
 **🎯 Objective**
 
-Crack the password of a password-protected PDF using **John the Ripper (JTR)** and its graphical interface, ### Johnny. 
+Crack the password of a password-protected PDF using **John the Ripper (JTR)** and its graphical interface, **Johnny**. 
 
 ---
 
