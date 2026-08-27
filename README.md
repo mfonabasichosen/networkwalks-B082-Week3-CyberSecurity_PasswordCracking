@@ -48,7 +48,7 @@ Crack the password of a password-protected PDF using **John the Ripper (JTR)** a
 
 1. I used Kali Linux, so i reinstall John.
 2. Downloaded Johnny GUI.
-3. Configured Johnny to use `usr/sbin/john`.
+3. Configured Johnny to use `/usr/sbin/john`.
 4. Extracted the PDF hash.
 5. Saved the extracted hash into `hash.txt`.
 6. Loaded the hash into Johnny.
