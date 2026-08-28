@@ -297,7 +297,7 @@ john --show hash.txt
 ## 🔗 Connect With Me
 
 💼 **LinkedIn:**
-[My-LINKEDIN](https://www.linkedin.com/in/your-profile/)
+[My-LINKEDIN](www.linkedin.com/in/chosen-mfonabasi-5a297a3b7)
 
 🐙 **GitHub:**
 [My-GITHUB](https://github.com/mfonabasichosen)
