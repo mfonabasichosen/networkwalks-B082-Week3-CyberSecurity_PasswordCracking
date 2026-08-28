@@ -3,6 +3,7 @@
 ### 🔐 Week 3: Password Cracking Labs
   
 ![Field](https://img.shields.io/badge/Field-Cybersecurity-1abc9c)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?logo=linux&logoColor=white)
 ![Internship](https://img.shields.io/badge/Internship-grey)
 ![Week](https://img.shields.io/badge/Week-3-2ecc71)
 ![Topic](https://img.shields.io/badge/Topic-Password_Cracking-1a1a2e)
