@@ -1,15 +1,16 @@
 <div align="center">
 
 ### 🔐 Week 3: Password Cracking Labs
-  
-![Field](https://img.shields.io/badge/Field-Cybersecurity-1abc9c)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?logo=linux&logoColor=white)
-![Internship](https://img.shields.io/badge/Internship-grey)
-![Week](https://img.shields.io/badge/Week-3-2ecc71)
-![Topic](https://img.shields.io/badge/Topic-Password_Cracking-1a1a2e)
-![Tool](https://img.shields.io/badge/Tool-John_the_Ripper-1abc9c)
-![Training](https://img.shields.io/badge/Training-grey)
-![Networkwalks](https://img.shields.io/badge/Networkwalks-2ecc71)
+
+**![Field](https://img.shields.io/badge/Cybersecurity-1abc9c?logo=hackthebox&logocolor=white)**
+**![Linux](https://img.shields.io/badge/Linux-1a1a2e?logo=linux&logoColor=white)**
+**![Virtualbox](https://img.shields.io/badge/-Virtualbox_v7.2-blue?logo=virtualbox&logocolor=white)**
+**![Internship](https://img.shields.io/badge/Internship-grey)**
+**![Week](https://img.shields.io/badge/Week-3-2ecc71)**
+**![Topic](https://img.shields.io/badge/Topic-Password_Cracking-1a1a2e)**
+**![Tool](https://img.shields.io/badge/Tool-John_the_Ripper-1abc9c)**
+**![Training](https://img.shields.io/badge/Training-grey)**
+**![Networkwalks](https://img.shields.io/badge/Networkwalks-2ecc71)**
 
 🔐 Hands-on password cracking labs completed during **Week 3** of my Cybersecurity Internship at NETWORKWALKS.
 
